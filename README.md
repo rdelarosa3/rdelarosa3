@@ -11,13 +11,13 @@
 - ⚡ Fun fact: Tarantulas are yummy 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdelarosa3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdelarosa3&show_icons=true&count_private=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Rdelarosa3)  
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdelarosa3)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4 align="center">Languages</h4>
 <p align="center">
