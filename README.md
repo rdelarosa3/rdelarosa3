@@ -1,7 +1,6 @@
 ![Colorful Business Data General Linkedin Banner](https://user-images.githubusercontent.com/40813295/104819889-6dc30200-57f6-11eb-99e6-cef03cdeb9c8.png)
 
-<h2 align="center"> Hi there 👋, my name is Robert</h1>
-<h4 align="center"> I am Software Developer </h3>
+<h2 align="center"> Hey there 👋</h1>
 
 <p align="center"> I love to collaborate and contribute on projects. If You need help creating dynamic content reach out.</p>
 
