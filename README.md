@@ -3,17 +3,14 @@
 <h1 align="center"> Hi there 👋, my name is Robert</h1>
 <h3 align="center"> I am Software Developer </h3>
 
-<p align="center"> I live to collaborate and contribute on projects. If You need help creating dynamic content reach out.</p>
+<p align="center"> I love to collaborate and contribute on projects. If You need help creating dynamic content reach out.</p>
 
 - 🔭 I’m currently working on Chownow 
 - 🌱 I’m currently learning Spring Boot Framework with Java 
 - 💬 Ask me about Java, JS, Ruby 
 - ⚡ Fun fact: Tarantulas are yummy 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rdelarosa3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/delarosa-robert/)  
-
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rdelarosa3)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdelarosa3&show_icons=true&count_private=true)  
