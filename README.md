@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Robert
 #### I am Software Developer
 
-I live to collaborate and contribute on projects. If You Meed help creatimg dynamic content reach out.
+I live to collaborate and contribute on projects. If You need help creating dynamic content reach out.
 
 Skills: JAVA / RUBY / JS / HTML / CSS
 
