@@ -3,9 +3,7 @@
 <h1 align="center"> Hi there 👋, my name is Robert</h1>
 <h3 align="center"> I am Software Developer </h3>
 
-I live to collaborate and contribute on projects. If You need help creating dynamic content reach out.
-
-Skills: JAVA / RUBY / JS / HTML / CSS
+<p align="center"> I live to collaborate and contribute on projects. If You need help creating dynamic content reach out.</p>
 
 - 🔭 I’m currently working on Chownow 
 - 🌱 I’m currently learning Spring Boot Framework with Java 
