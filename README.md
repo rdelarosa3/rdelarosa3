@@ -1,4 +1,4 @@
-![I am Software Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Colorful Business Data General Linkedin Banner](https://user-images.githubusercontent.com/40813295/104819889-6dc30200-57f6-11eb-99e6-cef03cdeb9c8.png)
 
 ### Hi there 👋, my name is Robert
 #### I am Software Developer
