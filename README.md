@@ -15,7 +15,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Rdelarosa3)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelarosa3&theme=synthwave&layout=compact)](https://github.com/rdelarosa3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelarosa3&theme=radical&layout=compact)](https://github.com/rdelarosa3/github-readme-stats)
 
 <h4 align="center">Languages</h4>
 <p align="center">
