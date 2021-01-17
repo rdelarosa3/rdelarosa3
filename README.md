@@ -11,7 +11,7 @@
 <br></br>
 <br></br>
 <p width=100%  align="center">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3" />
 </p>
 <p width=100% align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=rdelarosa3&show_icons=true&theme=algolia&count_private=true" alt="rdelarosa3" />
@@ -20,4 +20,6 @@
 
 <br></br>
 <br></br>
-![Metrics](https://metrics.lecoq.io/rdelarosa3?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FChicago&config.animated=true)
+<p width=100%  align="center">
+    <img align="center" src="https://metrics.lecoq.io/rdelarosa3?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FChicago&config.animated=true" />
+</p>
