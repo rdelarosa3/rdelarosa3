@@ -15,11 +15,8 @@
 
 </p>
 <p width=100%  align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdelarosa3&show_icons=true&theme=algolia&count_private=true" alt="rdelarosa3" />
-
-  &nbsp;
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3" />
-
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rdelarosa3&show_icons=true&theme=algolia&count_private=true" alt="rdelarosa3" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3" />
 </p>
 
 <br></br>
