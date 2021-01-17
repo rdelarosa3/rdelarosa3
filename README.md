@@ -9,10 +9,6 @@
 - 💬 Ask me about Java, JS, Ruby 
 - ⚡ Fun fact: Tarantulas are yummy 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3)   
-
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdelarosa3&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Rdelarosa3)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdelarosa3&theme=radical&layout=compact)](https://github.com/rdelarosa3/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/rdelarosa3?template=classic&languages=1&isocalendar=1&followup=1&isocalendar.duration=full-year&config.timezone=America%2FChicago&config.animated=true)
