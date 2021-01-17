@@ -10,7 +10,13 @@
 - ⚡ Fun fact: Tarantulas are yummy 
 <br></br>
 <br></br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3)![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdelarosa3&show_icons=true&count_private=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rdelarosa3&show_icons=true&count_private=true)  
+<p width=100% ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdelarosa3&layout=compact&theme=algolia&count_private=true&exclude_repo=linux" alt="rdelarosa3" /></p>
+
+
+<p width=100% style="display: block;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdelarosa3&show_icons=true&theme=algolia&count_private=true" alt="rdelarosa3" /></p>
+
 <br></br>
 <br></br>
-![Metrics](https://metrics.lecoq.io/rdelarosa3?template=classic&languages=1&isocalendar=1&followup=1&isocalendar.duration=full-year&config.timezone=America%2FChicago&config.animated=true)
+![Metrics](https://metrics.lecoq.io/rdelarosa3?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FChicago&config.animated=true)
