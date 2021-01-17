@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on [Chownow](https://github.com/chow-now/capstone/tree/master/src/main/java/com/chownow/capstone) 
 - 🌱 I’m currently learning Spring Boot Framework with Java, Python, and SalesForce APEX 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/delarosa-robert/ "Linkedin")
 - 💬 Ask me about Java, JS, Ruby 
 - ⚡ Fun fact: Tarantulas are yummy 
 
