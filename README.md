@@ -5,7 +5,7 @@
 <p align="center"> I love to collaborate and contribute on projects. If You need help creating dynamic content reach out.</p>
 
 - 🔭 I’m currently working on Chownow 
-- 🌱 I’m currently learning Spring Boot Framework with Java 
+- 🌱 I’m currently learning Spring Boot Framework with Java, Python, and SalesForce APEX 
 - 💬 Ask me about Java, JS, Ruby 
 - ⚡ Fun fact: Tarantulas are yummy 
 
