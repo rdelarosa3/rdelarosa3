@@ -18,7 +18,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdelarosa3&show_icons=true&theme=algolia&count_private=true" alt="rdelarosa3" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdelarosa3&layout=compact&theme=algolia&count_private=true&exclude_repo=linux" alt="rdelarosa3" />
 </p>
-<h4 width=100% align="center">METRICS</h4>
-<p width=100%  align="center">
-    <img align="center" src="https://metrics.lecoq.io/rdelarosa3?template=classic&base.header=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FChicago&config.animated=true" />
-</p>
