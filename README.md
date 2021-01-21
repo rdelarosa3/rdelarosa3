@@ -4,11 +4,11 @@
 
 <p align="center"> I love to collaborate and contribute on projects. If You need help creating dynamic content reach out.</p>
 
-- 🔭  I’m currently working on [Chownow](https://github.com/chow-now/capstone) 
-- 🌱  I’m currently learning Spring Boot Framework with Java, Python, and SalesForce APEX 
-- 📫  How to reach me: [Linkedin](https://www.linkedin.com/in/delarosa-robert/ "Linkedin")
-- 💬  Ask me about Java, JS, Ruby 
-- ⚡  Fun fact: Tarantulas are yummy 
+- 🔭   I’m currently working on [Chownow](https://github.com/chow-now/capstone) 
+- 🌱   I’m currently learning Spring Boot Framework with Java, Python, and SalesForce APEX 
+- 📫   How to reach me: [Linkedin](https://www.linkedin.com/in/delarosa-robert/ "Linkedin")
+- 💬   Ask me about Java, JS, Ruby 
+- ⚡   Fun fact: Tarantulas are yummy 
 
 <p width=100%  align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3" />
