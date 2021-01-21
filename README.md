@@ -10,11 +10,13 @@
 - 💬 Ask me about Java, JS, Ruby 
 - ⚡ Fun fact: Tarantulas are yummy 
 
-<p width=100%  align="center">
+<p width=100%  align="left">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rdelarosa3" />
 </p>
 <br></br>
-<p width=100% align="center">
+<p width=100% align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rdelarosa3&show_icons=true&theme=algolia&count_private=true" alt="rdelarosa3" />
+</p>
+<p width=100% align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdelarosa3&layout=compact&theme=algolia&count_private=true&exclude_repo=linux" alt="rdelarosa3" />
 </p>
