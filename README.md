@@ -1,5 +1,4 @@
-![Colorful Business Data General Linkedin Banner](https://user-images.githubusercontent.com/40813295/104819889-6dc30200-57f6-11eb-99e6-cef03cdeb9c8.png)
-
+![Colorful Business Data General Linkedin Banner (2)](https://user-images.githubusercontent.com/40813295/106121632-63213a80-611d-11eb-8a86-17c12979edd4.png)
 <h2 align="center"> Hey there.</h1>
 
 <p align="center"> I love to collaborate and contribute on projects. If You need help creating dynamic content reach out.</p>
