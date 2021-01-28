@@ -8,7 +8,7 @@
 - 🌱   I’m currently learning APEX for Salesforce see my progress on [Trailhead](https://trailblazer.me/id/rdelarosa39)
 - 📫   How to reach me: [Linkedin](https://www.linkedin.com/in/delarosa-robert/ "Linkedin")
 - 💬   Ask me about Java, JS, Ruby 
-- ⚡   Fun fact: Lived in 5 different conuntries in the last 8 years. 
+- ⚡   Fun fact: Lived in 5 different countries in the last 8 years. 
 
 <br>
 <p width=100% align="left">
